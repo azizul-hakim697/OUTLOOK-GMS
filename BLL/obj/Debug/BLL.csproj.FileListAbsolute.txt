@@ -1,0 +1,14 @@
+D:\Final_Project\OUTLOOK-GSM\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+D:\Final_Project\OUTLOOK-GSM\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\BLL.dll
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\BLL.pdb
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\AutoMapper.dll
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\DAL.dll
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\EntityFramework.dll
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\DAL.pdb
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\DAL.dll.config
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\AutoMapper.xml
+D:\Final_Project\OUTLOOK-GSM\BLL\bin\Debug\EntityFramework.xml
+D:\Final_Project\OUTLOOK-GSM\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\Final_Project\OUTLOOK-GSM\BLL\obj\Debug\BLL.dll
+D:\Final_Project\OUTLOOK-GSM\BLL\obj\Debug\BLL.pdb
